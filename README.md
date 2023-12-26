@@ -1,11 +1,12 @@
-### Hi there 👋 I'm Oskari
+# Hi there 👋 I'm Oskari
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+**`ICT, Data Analytics in University of Turku`**
 
-### Languages and Tools:
+
+I'm a student from Turku, Finland most passionate about Data/ML. Recently been sidetracking in the realm of Full Stack through [fso](https://fullstackopen.com/). </br>
+Currently trying to put new skills into use in the form of League of Legends analytics web project.
+
+## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Jupyter Notebook" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="padding-right:10px;" />
@@ -20,3 +21,9 @@
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <br/>
 <br/>
+
+### LoLStats
+
+<a href="https://github.com/Palmgrenoskari/lolstats">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=palmgrenoskari&repo=lolstats" alt="lolstats repository"/>
+</a>
