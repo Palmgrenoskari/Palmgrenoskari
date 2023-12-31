@@ -22,7 +22,17 @@ Currently trying to put new skills into use in the form of League of Legends ana
 <br/>
 <br/>
 
-### LoLStats
+## Certifications:
+
+<img align="left" alt="AWS Certified Cloud Practitioner" width="100px" src="https://github.com/Palmgrenoskari/Palmgrenoskari/assets/62388905/892923d4-23b5-46dd-be72-337c2e31ccc8" />
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+(NOTE: Soon, exam booked 15.1.2024) <br/>
+
+## LoLStats
 
 <a href="https://github.com/Palmgrenoskari/lolstats">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=palmgrenoskari&repo=lolstats" alt="lolstats repository"/>
