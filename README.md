@@ -30,7 +30,7 @@ Currently trying to put new skills into use in the form of League of Legends ana
 <br/>
 <br/>
 <br/>
-(NOTE: Soon, exam booked 15.1.2024) <br/>
+(NOTE: Soon, exam booked 20.1.2024) <br/>
 
 ## LoLStats
 
