@@ -3,7 +3,7 @@
 **`ICT, Data Analytics in University of Turku`**
 
 
-I'm a student from Turku, Finland most passionate about Data/ML. Recently been sidetracking in the realm of Full Stack through [fso](https://fullstackopen.com/). </br>
+I'm a student from Turku, Finland most passionate about Data/ML/Cloud. Recently been sidetracking in the realm of Full Stack through [fso](https://fullstackopen.com/). </br>
 Currently trying to put new skills into use in the form of League of Legends analytics web project.
 
 ## Languages and Tools:
