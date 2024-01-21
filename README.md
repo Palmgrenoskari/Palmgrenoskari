@@ -30,7 +30,10 @@ Currently:
 
 ## Certifications:
 
-<img align="left" alt="AWS Certified Cloud Practitioner" width="100px" src="https://github.com/Palmgrenoskari/Palmgrenoskari/assets/62388905/892923d4-23b5-46dd-be72-337c2e31ccc8" />
+<a href="https://www.credly.com/badges/f8f59038-a455-4c00-b1e6-74c06dc3e68c/public_url">
+  <img align="left" alt="AWS Certified Cloud Practitioner" width="100px" src="https://github.com/Palmgrenoskari/Palmgrenoskari/assets/62388905/892923d4-23b5-46dd-be72-337c2e31ccc8" />
+</a>
+
 <br/>
 <br/>
 <br/>
