@@ -3,8 +3,14 @@
 **`ICT, Data Analytics in University of Turku`**
 
 
-I'm a student from Turku, Finland most passionate about Data/ML/Cloud. Recently been sidetracking in the realm of Full Stack through [fso](https://fullstackopen.com/). </br>
-Currently trying to put new skills into use in the form of League of Legends analytics web project.
+I'm a student from Turku, Finland most passionate about Data/ML/Cloud. </br>
+Recently been sidetracking in the realm of Full Stack through [fso](https://fullstackopen.com/). </br>
+
+Currently:
+* Trying to put new skills into use and learn more by working on my League of Legends analytics web project.
+* Working towards another AWS Certification (Certified Solutions Architect - Associate)
+* Studying... Aiming for BSc 2024, MSc 2025-2026
+
 
 ## Languages and Tools:
 
