@@ -12,10 +12,10 @@ Previously worked at Telia Finland, where I developed internal-use GenAI solutio
 
 | Languages | Frameworks | Other |
 |-----------|------------|-------|
-| <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python | <img alt="Streamlit" width="30px" src="https://github.com/user-attachments/assets/35686eeb-828f-4a29-b3ab-6ff8ca634131"/> Streamlit | <img alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/> MongoDB |
+| <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python | <img alt="Streamlit" width="30px" src="https://github.com/user-attachments/assets/35686eeb-828f-4a29-b3ab-6ff8ca634131"/> Streamlit | <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git |
 | <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> JavaScript | <img alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> React | <img alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> MySQL |
-| <img alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> HTML5 || <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git |
-| <img alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS3 || <img alt="Docker" width="30px" src="https://github.com/user-attachments/assets/ce62a959-81eb-4098-b130-bfbe73476677"/> Docker |
+| <img alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> HTML5 || <img alt="Docker" width="30px" src="https://github.com/user-attachments/assets/ce62a959-81eb-4098-b130-bfbe73476677"/> Docker |
+| <img alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS3 || <img alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/> MongoDB |
 ||| <img alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> Node.js |
 
 ## Certifications
