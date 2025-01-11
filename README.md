@@ -17,6 +17,7 @@ Previously worked at Telia Finland, where I developed internal-use GenAI solutio
 | <img alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> HTML5 || <img alt="Docker" width="30px" src="https://github.com/user-attachments/assets/ce62a959-81eb-4098-b130-bfbe73476677"/> Docker |
 | <img alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS3 || <img alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/> MongoDB |
 ||| <img alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> Node.js |
+||| <img alt="Bruno" width="30px" src="https://github.com/user-attachments/assets/babfaa72-97d1-4d81-80a6-19fb62aa2077"/> Bruno |
 
 ## Certifications
 
