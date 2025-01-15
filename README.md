@@ -18,6 +18,12 @@ Previously worked at Telia Finland, where I developed internal-use GenAI solutio
 | <img alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS3 || <img alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/> MongoDB |
 ||| <img alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> Node.js |
 
+## Deployed Apps
+| App | Link | Stack |
+|-----|------|-------|
+| Oura Dashboard | https://ouradashboard.streamlit.app/ | <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img alt="Streamlit" width="30px" src="https://github.com/user-attachments/assets/35686eeb-828f-4a29-b3ab-6ff8ca634131"/> |
+| TBA | TBA | TBA |
+
 ## Certifications
 
 <a href="https://www.credly.com/badges/f8f59038-a455-4c00-b1e6-74c06dc3e68c/public_url">
