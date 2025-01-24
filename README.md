@@ -21,8 +21,8 @@ Previously worked at Telia Finland, where I developed internal-use GenAI solutio
 ## Deployed Apps
 | App | Link | Stack |
 |-----|------|-------|
+| Personal Portfolio | https://www.oskaripalmgren.dev/ | <img alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> <img alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> <img alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> <img alt="Next" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /> |
 | Oura Dashboard | https://ouradashboard.streamlit.app/ | <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img alt="Streamlit" width="30px" src="https://github.com/user-attachments/assets/35686eeb-828f-4a29-b3ab-6ff8ca634131"/> |
-| TBA | TBA | TBA |
 
 ## Certifications
 
