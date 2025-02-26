@@ -2,7 +2,7 @@
 
 **`MSc Student in Data Analytics and Health Technology @ University of Turku`**
 
-Most passionate about ML, Modern Web Dev, Data, Cloud and always willing to learn more! </br>
+Most passionate about ML, IA, Modern Web Dev, Data, Cloud and always willing to learn more! </br>
 
 Previously worked at Telia Finland, where I developed internal-use GenAI solutions.
 <br/>
