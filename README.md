@@ -5,6 +5,8 @@
 Most passionate about ML, IA, Modern Web Dev, Data, Cloud and always willing to learn more! </br>
 
 Previously worked at Telia Finland, where I developed internal-use GenAI solutions.
+
+Needs updating...
 <br/>
 
 
