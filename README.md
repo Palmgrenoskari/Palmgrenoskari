@@ -1,16 +1,11 @@
 # Hi there 👋 I'm Oskari
 
+**`Software Robotics Developer @ Digia`**
 **`MSc Student in Data Analytics and Health Technology @ University of Turku`**
 
-Most passionate about ML, IA, Modern Web Dev, Data, Cloud and always willing to learn more! </br>
+Full-time software developer working on software robotics and modern AI-driven solutions, enjoy building useful products/solutions in close collaboration with customers. </br>
 
-Previously worked at Telia Finland, where I developed internal-use GenAI solutions.
-
-Needs updating...
-<br/>
-
-
-## Most Used Languages, Frameworks & Other
+## Most Used Languages, Frameworks & Other (Needs updating...)
 
 | Languages | Frameworks | Other |
 |-----------|------------|-------|
@@ -26,6 +21,7 @@ Needs updating...
 |-----|------|-------|
 | Personal Portfolio | https://www.oskaripalmgren.dev/ | <img alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> <img alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> <img alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> <img alt="Next" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /> |
 | Oura Dashboard | https://ouradashboard.streamlit.app/ | <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img alt="Streamlit" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"/> |
+| Exilius Idle MMORPG | TBA | WiP |
 
 ## Certifications
 
