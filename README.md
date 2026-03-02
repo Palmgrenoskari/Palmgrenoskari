@@ -19,9 +19,10 @@ Full-time software developer working on software robotics and modern AI-driven s
 ## Deployed Apps
 | App | Link | Stack |
 |-----|------|-------|
+| Exilium Idle MMORPG | https://www.exiliumidle.com/ | WiP |
 | Personal Portfolio | https://www.oskaripalmgren.dev/ | <img alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> <img alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> <img alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> <img alt="Next" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /> |
-| Oura Dashboard | https://ouradashboard.streamlit.app/ | <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img alt="Streamlit" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"/> |
-| Exilius Idle MMORPG | TBA | WiP |
+| Oura Dashboard (outdated) | https://ouradashboard.streamlit.app/ | <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img alt="Streamlit" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"/> |
+| Exilium Idle MMORPG | TBA | WiP |
 
 ## Certifications
 
