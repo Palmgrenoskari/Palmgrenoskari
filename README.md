@@ -3,25 +3,28 @@
 **`Software Robotics Developer @ Digia`**
 **`MSc Student in Data Analytics and Health Technology @ University of Turku`**
 
-Full-time software developer working on software robotics and modern AI-driven solutions, enjoy building useful products/solutions in close collaboration with customers. </br>
+Full-time developer working on software robotics and modern AI-driven solutions, building useful products in close collaboration with customers.
 
-## Most Used Languages, Frameworks & Other (Needs updating...)
+Recently my work has mainly revolved around data retrieval tooling/MCPs for LLMs (RAG, Text2SQL, ...).
 
-| Languages | Frameworks | Other |
-|-----------|------------|-------|
-| <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python | <img alt="Streamlit" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"/> Streamlit | <img alt="Azure" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" /> Azure |
-| <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> JavaScript | <img alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> React | <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git |
-| <img alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> TypeScript | <img alt="Next" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /> Next.js | <img alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/> Docker |
-| <img alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> HTML5 || <img alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> MySQL |
-| <img alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS3|| <img alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/> MongoDB |
-| | | <img alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> Node.js |
+Varying hobby projects on the side :)
+
+## Tech Stack
+
+| Category | Stack |
+|----------|-------|
+| **Languages** | TypeScript (Web) · Python (AI/Automation/Analytics) |
+| **Build** | React · Next.js · Fastify · Tailwind CSS |
+| **Data** | PostgreSQL · Prisma |
+| **Ship** | Vercel · Railway · Docker · AWS · Azure |
+| **AI** | Claude Code / Codex (with the most recent well-received skills/plugins) |
 
 ## Deployed Apps
 | App | Link | Stack |
 |-----|------|-------|
-| Exilium Idle MMORPG | https://www.exiliumidle.com/ | WiP |
-| Personal Portfolio | https://www.oskaripalmgren.dev/ | <img alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> <img alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> <img alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> <img alt="Next" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /> |
-| Oura Dashboard (outdated) | https://ouradashboard.streamlit.app/ | <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img alt="Streamlit" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"/> |
+| Päivänpulma – Daily Puzzle Platform | https://paivanpulma.fi | TypeScript · React · Next.js · Tailwind CSS · Fastify · PostgreSQL · Prisma · Vercel · Railway |
+| Exilium – Idle MMORPG | https://exiliumidle.com | TypeScript · React · Fastify · Vite · Zod · PostgreSQL · Prisma · Cloudflare · Vercel · Railway |
+| Personal Portfolio | https://www.oskaripalmgren.dev/ | TypeScript · React · Next.js · Tailwind CSS |
 
 ## Certifications
 
